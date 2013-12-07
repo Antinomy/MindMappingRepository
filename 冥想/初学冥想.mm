@@ -1,10 +1,10 @@
 <map version="1.0.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node COLOR="#ff6633" CREATED="1386082158000" HGAP="64" ID="ID_840750038" LINK="&#x51a5;&#x60f3;.mm" MODIFIED="1386084637046" TEXT="&#x521d;&#x5b66;&#x51a5;&#x60f3;" VSHIFT="-14">
+<node COLOR="#ff6633" CREATED="1386082158000" HGAP="64" ID="ID_840750038" LINK="&#x51a5;&#x60f3;&#x6210;&#x4f5b;.mm" MODIFIED="1386398550859" TEXT="&#x521d;&#x5b66;&#x51a5;&#x60f3;" VSHIFT="-14">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="20"/>
-<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <hook NAME="accessories/plugins/HierarchicalIcons.properties"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <node COLOR="#0033ff" CREATED="1386083424218" ID="ID_285684112" MODIFIED="1386084641671" POSITION="right" TEXT="&#x4f5b;&#x5728;&#x51a5;&#x60f3;&#x524d;&#xff0c;&#x4e00;&#x6837;&#x6709;&#x75db;&#x82e6;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
@@ -98,7 +98,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#0033ff" CREATED="1386083532484" HGAP="31" ID="ID_817997149" MODIFIED="1386086259015" POSITION="left" TEXT="&#x7ad9;&#x5728;&#x81ea;&#x5df1;&#x4e00;&#x8fb9;&#xff0c;&#x638c;&#x63e1;&#x81ea;&#x5df1;&#x7684;&#x672a;&#x6765;" VSHIFT="-22">
+<node COLOR="#0033ff" CREATED="1386083532484" HGAP="31" ID="ID_817997149" MODIFIED="1386398504750" POSITION="left" TEXT="&#x7ad9;&#x5728;&#x81ea;&#x5df1;&#x4e00;&#x8fb9;&#xff0c;&#x638c;&#x63e1;&#x81ea;&#x5df1;&#x7684;&#x672a;&#x6765;" VSHIFT="-22">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1386086047375" ID="ID_1031109159" MODIFIED="1386086128406" TEXT="&#x5feb;&#x4e50;&#x60c5;&#x7eea;&#x4ea7;&#x751f;&#x591a;&#x5df4;&#x80fa;&#xff0c;&#x591a;&#x5df4;&#x80fa;&#x5e2e;&#x52a9;&#x96c6;&#x4e2d;&#x6ce8;&#x610f;&#x529b;">

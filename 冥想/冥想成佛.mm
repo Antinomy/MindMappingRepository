@@ -42,7 +42,7 @@
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
-<node COLOR="#0033ff" CREATED="1386200060959" ID="ID_1345645984" MODIFIED="1386200279474" POSITION="right" TEXT="&#x6570;&#x547c;&#x5438;&#x51a5;&#x60f3;&#x6cd5;">
+<node COLOR="#0033ff" CREATED="1386389888703" ID="ID_957193851" LINK="&#x6570;&#x547c;&#x5438;&#x51a5;&#x60f3;&#x6cd5;.mm" MODIFIED="1386389888906" POSITION="right" TEXT="&#x6570;&#x547c;&#x5438;&#x51a5;&#x60f3;&#x6cd5;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
