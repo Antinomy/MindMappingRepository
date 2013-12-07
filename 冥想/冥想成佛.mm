@@ -12,13 +12,13 @@
   </body>
 </html></richcontent>
 <font ITALIC="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="20"/>
-<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
 <hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
-<node COLOR="#0033ff" CREATED="1386083761015" ID="ID_1068976393" LINK="&#x521d;&#x5b66;&#x51a5;&#x60f3;.mm" MODIFIED="1386200256740" POSITION="right" TEXT="&#x521d;&#x5b66;&#x51a5;&#x60f3;">
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node COLOR="#0033ff" CREATED="1386200102303" ID="ID_382771137" MODIFIED="1386420619859" POSITION="left" TEXT="&#x5b87;&#x5b99;&#x51a5;&#x60f3;&#x6cd5;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
-<node COLOR="#0033ff" CREATED="1386199239146" ID="ID_926144172" LINK="&#x5927;&#x8111;&#x5e38;&#x8bc6;&#x8bfe;%20.mm" MODIFIED="1386200256740" POSITION="left" TEXT="&#x5927;&#x8111;&#x5e38;&#x8bc6;&#x8bfe; ">
+<node COLOR="#0033ff" CREATED="1386083761015" ID="ID_1068976393" LINK="&#x521d;&#x5b66;&#x51a5;&#x60f3;.mm" MODIFIED="1386200256740" POSITION="right" TEXT="&#x521d;&#x5b66;&#x51a5;&#x60f3;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
@@ -38,6 +38,10 @@
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
+<node COLOR="#0033ff" CREATED="1386199239146" ID="ID_926144172" LINK="&#x5927;&#x8111;&#x5e38;&#x8bc6;&#x8bfe;%20.mm" MODIFIED="1386420626234" POSITION="left" TEXT="&#x5927;&#x8111;&#x5e38;&#x8bc6;&#x8bfe; ">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
+</node>
 <node COLOR="#0033ff" CREATED="1386200437084" ID="ID_1523685453" LINK="&#x5b9a;&#x7684;&#x51a5;&#x60f3;&#x6cd5;.mm" MODIFIED="1386200437084" POSITION="right" TEXT="&quot;&#x5b9a;&quot;&#x7684;&#x51a5;&#x60f3;&#x6cd5;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
@@ -46,11 +50,11 @@
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
-<node COLOR="#0033ff" CREATED="1386200085303" ID="ID_1810120447" MODIFIED="1386200256740" POSITION="right" TEXT="&#x5f3a;&#x5316;&#x5185;&#x5fc3;&#x51a5;&#x60f3;&#x6cd5;">
+<node COLOR="#0033ff" CREATED="1386419004187" ID="ID_504497000" LINK="&#x751c;&#x871c;&#x51a5;&#x60f3;&#x6cd5;.mm" MODIFIED="1386419004203" POSITION="right" TEXT="&#x751c;&#x871c;&#x51a5;&#x60f3;&#x6cd5;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
-<node COLOR="#0033ff" CREATED="1386200102303" ID="ID_382771137" MODIFIED="1386200301740" POSITION="right" TEXT="&#x5b87;&#x5b99;&#x51a5;&#x60f3;&#x6cd5;">
+<node COLOR="#0033ff" CREATED="1386200085303" ID="ID_1810120447" MODIFIED="1386200256740" POSITION="right" TEXT="&#x5f3a;&#x5316;&#x5185;&#x5fc3;&#x51a5;&#x60f3;&#x6cd5;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
