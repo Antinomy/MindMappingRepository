@@ -54,7 +54,7 @@
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
-<node COLOR="#0033ff" CREATED="1386200085303" ID="ID_1810120447" MODIFIED="1386200256740" POSITION="right" TEXT="&#x5f3a;&#x5316;&#x5185;&#x5fc3;&#x51a5;&#x60f3;&#x6cd5;">
+<node COLOR="#0033ff" CREATED="1386467980125" ID="ID_393962870" LINK="&#x5f3a;&#x5316;&#x5185;&#x5fc3;&#x51a5;&#x60f3;&#x6cd5;.mm" MODIFIED="1386467980265" POSITION="right" TEXT="&#x5f3a;&#x5316;&#x5185;&#x5fc3;&#x51a5;&#x60f3;&#x6cd5;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
