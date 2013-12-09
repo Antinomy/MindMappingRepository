@@ -12,9 +12,9 @@
   </body>
 </html></richcontent>
 <font ITALIC="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="20"/>
-<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node COLOR="#0033ff" CREATED="1386200102303" ID="ID_382771137" MODIFIED="1386420619859" POSITION="left" TEXT="&#x5b87;&#x5b99;&#x51a5;&#x60f3;&#x6cd5;">
+<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
+<node COLOR="#0033ff" CREATED="1386599669828" ID="ID_1221722565" LINK="&#x5b87;&#x5b99;&#x51a5;&#x60f3;&#x6cd5;.mm" MODIFIED="1386599669828" POSITION="left" TEXT="&#x5b87;&#x5b99;&#x51a5;&#x60f3;&#x6cd5;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
