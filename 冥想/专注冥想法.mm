@@ -4,7 +4,7 @@
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="20"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
-<node COLOR="#0033ff" CREATED="1387090059812" ID="ID_1466711278" MODIFIED="1387093656390" POSITION="right" TEXT="&#x4e13;&#x6ce8;&#x51a5;&#x60f3;">
+<node COLOR="#0033ff" CREATED="1387090059812" ID="ID_1466711278" MODIFIED="1387110627765" POSITION="right" TEXT="&#x4e13;&#x6ce8;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 <node COLOR="#00b439" CREATED="1387090088140" ID="ID_958871726" MODIFIED="1387093656390" TEXT="&#x6446;&#x4e2a;&#x8212;&#x670d;&#x7684;&#x59ff;&#x52bf;">
