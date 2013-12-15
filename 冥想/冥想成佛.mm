@@ -12,8 +12,8 @@
   </body>
 </html></richcontent>
 <font ITALIC="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="20"/>
-<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<hook NAME="accessories/plugins/CreationModificationPlugin_new.properties"/>
 <node COLOR="#0033ff" CREATED="1386599669828" ID="ID_1221722565" LINK="&#x5b87;&#x5b99;&#x51a5;&#x60f3;&#x6cd5;.mm" MODIFIED="1386599669828" POSITION="left" TEXT="&#x5b87;&#x5b99;&#x51a5;&#x60f3;&#x6cd5;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
@@ -26,7 +26,7 @@
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
-<node COLOR="#0033ff" CREATED="1386200330349" ID="ID_578996944" MODIFIED="1386200339537" POSITION="left" TEXT="&#x5584;&#x610f;&#x56de;&#x5f52;&#x51a5;&#x60f3;&#x6cd5;">
+<node COLOR="#0033ff" CREATED="1387074328500" ID="ID_310889839" LINK="&#x5584;&#x610f;&#x56de;&#x5f52;&#x51a5;&#x60f3;&#x6cd5;.mm" MODIFIED="1387074328500" POSITION="left" TEXT="&#x5584;&#x610f;&#x56de;&#x5f52;&#x51a5;&#x60f3;&#x6cd5;">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
 <font NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="18"/>
 </node>
