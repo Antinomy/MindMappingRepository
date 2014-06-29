@@ -1,0 +1,22 @@
+
+* XP
+** Simple Design
+** The Planning Game
+*** Scrum
+*** Kanban
+** Testing
+*** TDD
+**** ATDD
+**** BDD
+** Small Releases
+*** Continues Delivery
+** Refactoring
+** Metaphor
+*** DDD
+** Pair Programming
+** Collective Ownership
+** 40 Hour week
+*** Sustainable Rate
+** Coding Standards
+** On Site Customer
+
