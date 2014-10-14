@@ -1,0 +1,6 @@
+* Test Doubles
+** Dummy
+*** Stub
+**** Spy
+***** Mock
+** Fake
