@@ -1,0 +1,10 @@
+# Code Complete
+
+* 基础
+** 隐喻
+   隐喻帮助人们更好地了解问题
+*** Writing Code （写作）
+*** Growing a System （培植系统）
+*** System Accertion （系统生长）
+*** Building Software （建造软件）
+*** The Intellectual Toolbox （智慧工具箱）
