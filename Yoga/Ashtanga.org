@@ -1,6 +1,9 @@
+#+OPTIONS: num:nil
+#+OPTIONS: author:nil
+
 * 第一序列 • The Primary Series
 ** 热身
-*** 拜日式 [AB]  • Surya Namaskara •  Sun Salutation 
+*** 拜日式 [A-B]  • Surya Namaskara •  Sun Salutation 
 ** 站立体势
 *** 1. 双腿前屈加强背部伸展式A (鸵鸟式) • Padangusth Asana • Big Toe Posture
 *** 2. 双腿前屈加强背部伸展式B (前屈式)  • Padahast Asana • Hand Under Foot Posture
@@ -8,58 +11,47 @@
 *** 4. 扭转三角式 • Parivrtta Trikon Asana • Revolving Triangle
 *** 5. 侧角式 • Utthita Parsvakon Asana • Extended Side Angle Pose
 *** 6. 扭转侧角式 •  Parivritta Parsvakon Asana • Revolving Side Angle Pose
-*** 7. 双角式 [ABCD] • Prasarita Padottan Asana A-D • Intense Wide Leg Stretch
+*** 7. 双角式 [A-B-C-D] • Prasarita Padottan Asana A-D • Intense Wide Leg Stretch
 *** 8. 单腿加强背部伸展式 • Arsvottan Asana • Intense Side Stretch Posture
-*** 9. 手拉脚单腿直立式 [ABCD] • Utthita Hasta Padangusth Asana • Hand To Big Toe Posture
+*** 9. 手拉脚单腿直立式 [A-B-C-D] • Utthita Hasta Padangusth Asana • Hand To Big Toe Posture
 *** 10. 半莲花单腿加强背部伸展式 • Ardha Baddha Padmottan Asana • Half Bound Lotus Forward Bend
 *** 11. 幻椅式 • Utkat Asana • Fierce Pose
-*** 12. 战士式 [AB] • VIRABHADR ASANA A-B • WARRIOR
+*** 12. 战士式 [A-B] • VIRABHADR ASANA A-B • WARRIOR
 ** 坐立体势
 *** 13. 坐山式 • Dand Asana • Staff Pose
-*** 14. 双腿加强背部伸展式 [ABC] • Paschimottan Asana A-C • Intense West Stretch Or Sitting Forward Bend
+*** 14. 双腿加强背部伸展式 [A-B-C] • Paschimottan Asana A-C • Intense West Stretch Or Sitting Forward Bend
 *** 15. 反台式 • Purvottan Asana • Intense East Stretch
 *** 16. 半莲花前屈加强背部伸展式 • Ardha Baddha Padma Paschimott Anasana • Half Bound Lotus Forward Bend
 *** 17. 半英雄前屈加强背部伸展式 • Iriang Mukhaipada Paschimottan Asana • Reverse The Leg Direction Of One Leg Intense
-*** 18. 单腿前屈加强背部伸展式 [ABC] • Janu Sirs Asana A-C • Head To Knee Pose
-*** 19. 玛里琪 [ABCD] • Marichy Asana A-D
+*** 18. 单腿前屈加强背部伸展式 [A-B-C] • Janu Sirs Asana A-C • Head To Knee Pose
+*** 19. 玛里琪 [A-B-C-D] • Marichy Asana A-D
 *** 20. 船式 • Nav Asana • Boat Posture
-*** 21. 压肩式 [ABCD] • Bhujapid Asana • Shoulder Pressure Posture
+*** 21. 压肩式 [A-B-C-D] • Bhujapid Asana • Shoulder Pressure Posture
 *** 22. 龟式 • Kurm Asana • Tortoise Posture
 *** 23. 睡龟式 • Supta Kurm Asana • Sleeping Tortoise
-
-42.胎儿式 Garbha Pindasana
-43.公鸡式/公鸣式（Kukkutasana)
-44.束角式 (BaddhaKonasana)
-45.坐角式A (UpavisthaKonasanaA)
-46.坐角式B (UpavisthaKonasanaB)
-47. 双角前屈加强背部伸展式/睡角式A（Supta KonasanaA)
-48. 双角前屈加强背部伸展式/睡角式B（Supta KonasanaB)
-49. 仰卧手拉脚指伸展式A (SuptaPadangusthasanaA)
-50. 仰卧手拉脚指伸展式B (SuptaPadangusthasanaB)
-51. 仰卧手拉脚指伸展式C (SuptaPadangusthasanaC)
-52. 全箭式/直立手抓脚伸展式A（Ubhaya PadangusthasanaA)
-53. 全箭式/直立手抓脚伸展式B（Ubhaya PadangusthasanaB)
-54. 仰卧背腿伸展式/脸朝上加强伸展式A（Urdhva MukhaPaschimattanasanaA)
-55. 仰卧背腿伸展式/脸朝上加强伸展式B（Urdhva MukhaPaschimattanasanaB)
-56. 桥式（Setu Bandhasana)
-57. 轮式(UrdhvaDhanurasana)
-
+*** 24. 胎儿式 • Garbha Pind Asana • Embryo Posture
+*** 25. 公鸡式 • Kukkut Asana • Rooster Posture
+*** 26. 束角式 [A-B] • Baddha Kon Asana A-B • Bound Angle Posture
+*** 27. 坐角式 [A-B] • Upavista Kon Asana A-B • Seated Angle Posture
+*** 28. 睡角式 [A-B] • Supta Kon Asana A-B • Lying-Down Angle Posture
+*** 29. 仰卧手拉脚指伸展式 [A-C] • Supta Padangust Asana • Reclining Big Toe Posture
+*** 30. 全箭式 [A-B] • Ubhaya Padangusth Asana • Both Big Toes Posture
+*** 31. 仰卧背腿伸展式 [A-B] • Urdhva Mukha Paschimott Asana • Upward Facing Full Forward Bend
  
-
 ** 后弯体势
-58.坐式前屈（Paschimattanasana）
-59. 摊尸式/挺卧放松式(Shavasana )
-60. 肩倒立（SalambaSarvangasana)
-61. 犁式（Halasana)
-62. 加强犁式/弯曲双腿梨式/耳朵式（Karnapidasana)
-63. 手托莲花腿肩倒立/倒立莲花式（Urdhva Padmasana)
-64. 手抱莲花腿肩倒立/月台儿式(Pindasana)
-65. 莲花鱼式/鱼式(Matsyasana)
-66. 完全鱼式/双腿伸展式（Uttana Padasana)
+*** 32. 桥式 • Setu Bandh Asana • Bridge
+*** 33. 轮式 • Urdhva Dhanur Asana • Upward Bow Posture
+*** 34. 坐式前屈 • Paschimottan Asana • Full Forward Bend
+*** 35. 肩倒立 • Salamba Sarvang Asana • Shoulderstand
+*** 36. 犁式 • Hal Asana • Plow
+*** 37. 耳朵式 • Karnapid Asana • Ear Pressure Posture
+*** 38. 倒立莲花式 • Urdhva Padm Asana • Upward Lotus
+*** 39. 手抱莲花腿肩倒立 • Pind Asana • Embryo Posture
+*** 40. 鱼式 • Matsy Asana • Fish Posture
+*** 41. 完全鱼式 • Uttana Padasana • Extended Leg Posture
 ** 结束体位
-67. 头肘倒立(Sirsasana)
-68.婴儿式（Balasana)
-69. 手拉脚趾莲花前曲伸展式/捆绑莲花前曲伸展式（Yoga Mudra)
-70. 莲花坐立式(Padmasana)
-71. 双手支撑上提莲花式（Utpluthih/Tolasana)
-72. 摊尸式(Savasana)
+*** 42. 头倒立 • Sirs Asana • Headstand
+*** 43. 捆绑莲花前曲伸展式 • Yoga Mudra • Sealed Yoga Posture
+*** 44. 莲花坐立式 • Padm Asana • Lotus
+*** 45. 莲花支撑 • Uttpluthi • Uprooting
+*** 46. 摊尸式 • Sav Asana • Corpse Posture
