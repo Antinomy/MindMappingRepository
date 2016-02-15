@@ -1,0 +1,71 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node COLOR="#000000" CREATED="1455525333999" ID="ID_1688354328" MODIFIED="1455525353948" TEXT="NoSQL">
+<font NAME="SansSerif" SIZE="20"/>
+<hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+<node BACKGROUND_COLOR="#eeee00" COLOR="#0033ff" CREATED="1455525333999" ID="ID_1562473783" MODIFIED="1455525353899" POSITION="right" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+<head>
+<style type="text/css">
+<!--
+p { margin-top: 3px; margin-bottom: 3px; }-->
+</style>
+</head>
+<body>
+<p>&#x65e0;&#x6a21;&#x5f0f;&#x3001;&#x975e;&#x5173;&#x7cfb;&#x578b;&#x6570;&#x636e;&#x5e93;&#xff0c;&#x89e3;&#x51b3;&#x201c;&#x963b;&#x6297;&#x5931;&#x8c10;&#x201d;&#x95ee;&#x9898;&#xff08;&#x5173;&#x7cfb;&#x6a21;&#x578b;&#x548c;&#x5185;&#x5b58;&#x4e2d;&#x7684;&#x6570;&#x636e;&#x7ed3;&#x6784;&#x5b58;&#x5728;&#x5dee;&#x5f02;&#xff09;</p></body>
+</html></richcontent>
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+</node>
+<node COLOR="#0033ff" CREATED="1455525334000" ID="ID_450843586" MODIFIED="1455525353923" POSITION="right" TEXT="&#x6570;&#x636e;&#x6a21;&#x578b;">
+<edge STYLE="sharp_bezier" WIDTH="8"/>
+<font NAME="SansSerif" SIZE="18"/>
+<node COLOR="#00b439" CREATED="1455525334000" HGAP="33" ID="ID_68796958" MODIFIED="1455525369410" TEXT="&#x9762;&#x5411;&#x805a;&#x5408;" VSHIFT="29">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1455525334000" ID="ID_1842076468" MODIFIED="1455525353927" TEXT="&#x952e;&#x503c;">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1455525334000" ID="ID_1603717494" MODIFIED="1455525353928" TEXT="Memcached"/>
+<node COLOR="#111111" CREATED="1455525334000" ID="ID_430820427" MODIFIED="1455525353928" TEXT="Redis"/>
+<node COLOR="#111111" CREATED="1455525334000" ID="ID_140232510" MODIFIED="1455525353929" TEXT="Riak"/>
+<node COLOR="#111111" CREATED="1455525334000" ID="ID_129752833" MODIFIED="1455525353929" TEXT="..."/>
+</node>
+<node COLOR="#990000" CREATED="1455525334000" ID="ID_1871208161" MODIFIED="1455525353930" TEXT="&#x6587;&#x6863;">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1455525334000" ID="ID_1154848904" MODIFIED="1455525353931" TEXT="MongoDB"/>
+<node COLOR="#111111" CREATED="1455525334000" ID="ID_1917231092" MODIFIED="1455525353931" TEXT="CouchDB"/>
+<node COLOR="#111111" CREATED="1455525334000" ID="ID_1838250223" MODIFIED="1455525353932" TEXT="..."/>
+</node>
+<node COLOR="#990000" CREATED="1455525334001" ID="ID_340809004" MODIFIED="1455525353933" TEXT="&#x5217;&#x65cf;">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1455525334001" ID="ID_966021813" MODIFIED="1455525353934" TEXT="Cassandra"/>
+<node COLOR="#111111" CREATED="1455525334001" ID="ID_160960085" MODIFIED="1455525353935" TEXT="HBase"/>
+<node COLOR="#111111" CREATED="1455525334001" ID="ID_1757276086" MODIFIED="1455525353935" TEXT="Hypertable"/>
+<node COLOR="#111111" CREATED="1455525334001" ID="ID_743951782" MODIFIED="1455525353936" TEXT="..."/>
+</node>
+</node>
+<node COLOR="#00b439" CREATED="1455525334001" HGAP="17" ID="ID_842307084" MODIFIED="1455525366062" TEXT="&#x9762;&#x5411;&#x590d;&#x6742;&#x5173;&#x7cfb;" VSHIFT="49">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1455525334001" ID="ID_1747030407" MODIFIED="1455525353939" TEXT="&#x56fe;">
+<font NAME="SansSerif" SIZE="14"/>
+<node BACKGROUND_COLOR="#eeee00" COLOR="#111111" CREATED="1455525334001" ID="ID_1119744915" MODIFIED="1455525353940" STYLE="bubble">
+<richcontent TYPE="NODE"><html>
+<head>
+<style type="text/css">
+<!--
+p { margin-top: 3px; margin-bottom: 3px; }-->
+</style>
+</head>
+<body>
+<p>&#x7531;&#x8282;&#x70b9;&#x548c;&#x8fb9;&#x7ec4;&#x6210;&#xff0c;&#x9002;&#x5408;&#x5904;&#x7406;&#x5173;&#x7cfb;&#x590d;&#x6742;&#x7684;&#x6570;&#x636e;&#x7ed3;&#x6784;</p></body>
+</html></richcontent>
+</node>
+<node COLOR="#111111" CREATED="1455525334002" ID="ID_1841251668" MODIFIED="1455525353945" TEXT="Neo4J"/>
+<node COLOR="#111111" CREATED="1455525334002" ID="ID_715634656" MODIFIED="1455525353946" TEXT="HyperGraphDB"/>
+<node COLOR="#111111" CREATED="1455525334002" ID="ID_1679449716" MODIFIED="1455525353947" TEXT="..."/>
+</node>
+</node>
+</node>
+</node>
+</map>
